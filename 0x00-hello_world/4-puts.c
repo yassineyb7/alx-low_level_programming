@@ -6,7 +6,6 @@ n
  */
 int main (void)
 {
-pusts("\"Programming is like building a multilingual puzz
-le");
+pusts("\"Programming is like building a multilingual puzzle");
 return (0);
 }
