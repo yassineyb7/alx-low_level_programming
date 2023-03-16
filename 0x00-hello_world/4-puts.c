@@ -1,5 +1,5 @@
 #include <stdio.h>
-/*
+/**
  * main - A program that prints a line with pusts function 
  * Return: à (Success)
 */
