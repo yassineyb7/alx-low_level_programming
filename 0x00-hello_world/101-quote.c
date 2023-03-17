@@ -1,7 +1,11 @@
 #include <unistd.h>
+#include <stdio.h>
+
 /**
 * main - prints ( and that piece of art is useful" - Dore Korpar, 2015-10-19 )
+*
 * followed by a newline, to standard error.
+*
 * Return: Always 1.
 */
 int main(void)
